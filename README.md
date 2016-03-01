@@ -1,2 +1,4 @@
 # hello-world
-Hello world example
+Hi Webz,
+
+Mez editz readmez withz githubz.
